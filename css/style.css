@@ -1,12 +1,28 @@
 body {
-  color: rgb(248, 135, 154);
+  background-color: rgb(244, 219, 226);
+  color: rgb(236, 134, 134);
+  font-family: Monospace, Monaco;
+  margin: 40px;
+  padding: 15px;
+  border-style: double;
+  border-width: 10px;
+  border-color: rgb(36, 92, 28);;
+  text-align: justify;
 }
 
 h1 {
+  text-align: center;
+  font-family: Fantasy, Papyrus;
   color: rgb(36, 92, 28);
+  border-style: dotted;
+  padding: 10px;
+  border-radius: 20px;
+  border-width: 6px;
 }
 
 .quote {
+  font-style: italic;
+  font-size: 20px;
   color: rgb(135, 29, 29);
 }
 
@@ -15,7 +31,7 @@ h1 {
 }
 
 #intro p {
-  color: rgb(51, 123, 195);
+  color: rgb(68, 111, 154);
 }
 
 .super-important-omg {
