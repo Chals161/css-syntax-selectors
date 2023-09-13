@@ -1,13 +1,13 @@
 body {
-  color: brown;
+  color: rgb(248, 135, 154);
 }
 
 h1 {
-  color: red;
+  color: rgb(36, 92, 28);
 }
 
 .quote {
-  color: gray;
+  color: rgb(135, 29, 29);
 }
 
 .quote.narrator {
@@ -15,7 +15,7 @@ h1 {
 }
 
 #intro p {
-  color: green;
+  color: rgb(51, 123, 195);
 }
 
 .super-important-omg {
